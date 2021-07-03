@@ -22,7 +22,7 @@ public class Main extends Application {
 
         // Image icon = new Image("icon.png");
         // stage.getIcons().add(icon);
-        // stage.setTitle("Stage Demo Program w00t w00t");
+        // stage.setTitle("The Title");
         // stage.setWidth(420);
         // stage.setHeight(420);
         // stage.setResizable(false);
